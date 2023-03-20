@@ -22,7 +22,7 @@ h1 {
 h2 {
   font-size: 64px;
 }
-h4 {
+h3 {
   font-size: 48px;
 }
 p {
@@ -34,7 +34,7 @@ p {
 .hero {
   background-color: var(--secendary-color);
   text-align: center;
-  padding: 150px 30px;
+  padding: 80px 20px;
 }
 .hero p {
   font-size: 36px;
@@ -137,12 +137,10 @@ footer .social-link a:hover {
   h2 {
     font-size: 44px;
   }
-  h4 {
+  h3 {
     font-size: 26px;
   }
-  .hero {
-    padding: 20px 80px;
-  }
+
   .h .project-description {
     padding: 0;
     text-align: center;
@@ -172,7 +170,7 @@ footer .social-link a:hover {
   font-weight: 1;
 }
 .content-container {
-  padding: 20px 80px;
+  padding: 60px 80px;
 }
 
 .content {
